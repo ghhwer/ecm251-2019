@@ -1,2 +1,3 @@
 # ecm251-2019
-aulas do zanis
+Todos as pastas são projetos do IntelliJ referentes a aula ECM251 do IMT
+

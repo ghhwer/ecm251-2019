@@ -117,16 +117,17 @@ public class AtividadeSubmarino {
     }
 
     static public void menuDep(Produto.departamento tempDep){
-        Produto[] listTemp = loja.listaPorDepartamento(tempDep);
+
         int op;
         do {
             System.out.println("Produtos relacionados à "+tempDep);
+            Produto[] listTemp = loja.listaPorDepartamento(tempDep);
             System.out.println(loja.exibirListaDeProdutos(listTemp));
             System.out.println("[30] - Retornar ao menu anterior");
 
             op = sc1.nextInt();
             boolean exists = false;
-            if ( (op >= 0) && (op <= listTemp.length) ){
+            if ( (op >= 0) && (op <= 30) ){
                 for(int i = 0; i < listTemp.length; i++){
                     if(op == listTemp[i].getCodProd()){
                         exists = true;

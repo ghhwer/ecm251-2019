@@ -1,4 +1,4 @@
-package com.submarino;
+package com.submarino.sistema;
 
 public class Produto {
     enum departamento { informatica, livro, games, moveis };

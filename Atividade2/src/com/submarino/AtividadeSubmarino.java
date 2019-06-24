@@ -1,5 +1,9 @@
 package com.submarino;
+import com.submarino.sistema.Loja;
+import com.submarino.sistema.Produto;
+
 import java.util.Scanner;
+import com.submarino.sistema.Loja
 
 public class AtividadeSubmarino {
 

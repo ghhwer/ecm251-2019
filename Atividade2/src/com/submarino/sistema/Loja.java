@@ -1,4 +1,4 @@
-package com.submarino;
+package com.submarino.sistema;
 
 /**
  *

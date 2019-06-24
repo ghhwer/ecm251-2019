@@ -52,6 +52,16 @@ public class Loja {
             
         return temp;
     }
+
+    public String exibirListaDeProdutos(Produto[] ps){
+        String sTemp = "";
+
+        for (int i = 0; i < ps.length; i++) {
+            sTemp = sTemp + ps[i].exibirResumo();
+        }
+
+        return sTemp;
+    }
     
     public String exibirTodosProdutos(){
         String sTemp = "";

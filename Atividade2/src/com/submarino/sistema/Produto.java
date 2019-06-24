@@ -1,7 +1,7 @@
 package com.submarino.sistema;
 
 public class Produto {
-    enum departamento { informatica, livro, games, moveis };
+    public enum departamento { informatica, livro, games, moveis };
     private int codProd;
     private String nome;
     private departamento dep;
@@ -20,7 +20,11 @@ public class Produto {
         this.numParcelas = numParcelas;
         this.descricao = descricao;
     }
-    
+
+    public int getCodProd (){
+        return this.codProd;
+    }
+
     public departamento getDep (){
         return this.dep;
     }

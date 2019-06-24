@@ -245,18 +245,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClienteTest">
-    <configuration name="ClienteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.AtividadeSubmarino">
+    <configuration name="AtividadeSubmarino" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.submarino.classesTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.submarino.classesTest.ClienteTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="MAIN_CLASS_NAME" value="com.submarino.AtividadeSubmarino" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -338,11 +338,11 @@
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="Application.ListaDeComprasTest" />
       <item index="2" class="java.lang.String" itemvalue="Application.PedidoTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ClienteTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AtividadeSubmarino" />
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.ClienteTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AtividadeSubmarino" />
         <item index="1" class="java.lang.String" itemvalue="Application.PedidoTest" />
         <item index="2" class="java.lang.String" itemvalue="Application.ListaDeComprasTest" />
         <item index="3" class="java.lang.String" itemvalue="Application.Main" />

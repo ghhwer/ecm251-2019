@@ -1,0 +1,1 @@
+package com.heroimerlin;public class Main {    // 17.00100-5    // 17.01096-9    // 17.00865-4    public static void main(String[] args) {        ConsoleLogin cl = new ConsoleLogin();        User u = cl.getUser();        ConsoleMenu cm = new ConsoleMenu(u);    }}
